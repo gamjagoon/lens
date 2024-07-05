@@ -1,0 +1,14 @@
+psp_bl1.img psp_bl1 0
+dbgc.img debug_core 1
+hostbl1.img hostbl1 1
+custos_bl1.img custos_bl1 0
+epbl.img epbl 0
+bl2.img bl2 2
+dpm-eng.img dpm 2
+bootloader.img bootloader 2
+custos.img custos 3
+el3_mon.img el3_mon 2
+keystorage.img keystorage 2
+svm.img svm 2
+ldfw.img ldfw 2
+tzsw.img tzsw 2
